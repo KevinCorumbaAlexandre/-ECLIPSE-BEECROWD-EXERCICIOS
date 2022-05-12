@@ -10,8 +10,8 @@ public class ÁreadoCírculo {
 		double raio = scanner.nextDouble();
 		area = n * Math.pow(raio, 2);
 
-	    System.out.println(String.format("A=%.4f", area));
-
+		System.out.println(String.format("A=%.4f", area));
+		System.out.println("Fim!!");
 	}
 
 }
