@@ -2,9 +2,11 @@ package NÍVEL01;
 
 import java.util.Scanner;
 
-public class Exercício01 {
+import java.util.Scanner;
 
-	public Exercício01() {
+public class ExtremamenteBásico {
+
+	public ExtremamenteBásico() {
 
 	}
 
